@@ -5,7 +5,9 @@
 
 
 credits:
-HarpoonHarry
+HarpoonHarry (unpacked/crack)
+Mihono (README.md
+
 
 # Improve the source if you want
 You can improve any part of the source by [forking the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
