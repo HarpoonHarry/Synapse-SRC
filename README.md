@@ -1,6 +1,6 @@
 # Synapse-Source
 # Please Visit Hanime.tv and Rule34.xxx It A Really Good Website!
-## **OFFICIAL SYNAPSE WEBSITE ---> https://x.synapse.to/ **
+## **OFFICIAL SYNAPSE WEBSITE ---> https://x.synapse.to/ .**
 # [You can download the source here (click me)](https://github.com/HarpoonHarry/Synapse-SRC/releases)
 
 
